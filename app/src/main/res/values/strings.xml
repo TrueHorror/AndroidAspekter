@@ -2,4 +2,5 @@
     <string name="app_name">AndroidAspekter</string>
     <string name="image">image</string>
     <string name="camerabutton">cameraButton</string>
+    <string name="test">test</string>
 </resources>
