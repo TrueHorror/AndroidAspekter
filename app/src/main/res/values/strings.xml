@@ -3,4 +3,14 @@
     <string name="image">image</string>
     <string name="camerabutton">cameraButton</string>
     <string name="test">test</string>
+    <string name="dette_er_en_option">Dette er en option</string>
+    <string name="dette_ogs">Dette også!</string>
+    <string name="til_neste_aktivitet">Til neste aktivitet</string>
+    <string name="denne_knappen_gj_r_ikke_noe">Denne knappen gjør ikke noe</string>
+    <string name="registrer_deg">REGISTRER DEG!!</string>
+    <string name="mann">Mann</string>
+    <string name="kvinne">Kvinne</string>
+    <string name="e_mail">E-mail</string>
+    <string name="passord">Passord</string>
+    <string name="registrer">Registrer</string>
 </resources>
